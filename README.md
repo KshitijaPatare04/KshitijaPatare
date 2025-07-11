@@ -23,11 +23,9 @@ git commit -m "<h1 align="center">Hi 👋, I'm Kshitija Patare</h1>
 
 ---
 
-### 📌 Featured Projects:
-- 🔹 [Online Quiz Application (PHP + MySQL)](https://github.com/KshitijaPatare/Online-Quiz-App)
-- 🔹 [Student Management System (Python + SQL)](https://github.com/KshitijaPatare/Student-Management-System)
+### 📌 Featured Project:
 - 🔹 [To-Do App in Python](https://github.com/KshitijaPatare/Python-Todo-App)
-- 🔹 [MERN Notes App](https://github.com/KshitijaPatare/MERN-Notes-App)
+
 
 ---
 
